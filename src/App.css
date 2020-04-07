@@ -1,0 +1,11 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+.flowerlist {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin: 2rem;
+}
